@@ -1,6 +1,6 @@
 $user_api_csv_update  = "https://backend.staffbase.com/api/users/import/csv/update"
 
-$auth_token    = "NjE3MmVmMGMwNzFhMGExOWYzMDhlOGE5OnhBcGZUNi0kXnp9dSRkfilRaFBLazFrW0laRWwhLmY2JDhSekI3JiQhNUN9a0N4Y3RbXXpxe2o0TEduWWxqRnk="
+$auth_token    = "xxx"
 
 
 $Headers_csv_update       = @{ 
